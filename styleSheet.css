@@ -10,6 +10,8 @@
 body {
     background-color: blueviolet;
     font-family: 'Monofett';
+    font-size: 45px;
+    text-align: center;
 }
 
 h1 {
@@ -40,4 +42,8 @@ ul {
 
 ol {
     font-family: cursive;
+}
+
+li {
+    text-align: start;
 }
